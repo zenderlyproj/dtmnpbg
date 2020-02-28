@@ -1,0 +1,3498 @@
+[
+    -1,
+    null,
+    true,
+    [
+        {
+            "SeasonId": "battlepassdesc.202002",
+            "SeasonType": "season-battlepass",
+            "MaxLevel": 100,
+            "XpPerLevel": 2000,
+            "MaxDailyPlayXp": 1000,
+            "MaxDailyMissionResetCount": 1,
+            "MaxWeeklyMissionResetCount": 0,
+            "DailyResetHour": 0,
+            "StartDate": "2020-02-13T00:00:00+00:00",
+            "EndDate": "2020-04-09T23:59:59+00:00",
+            "SalesEndDate": "0001-01-01T00:00:00",
+            "GracePeriod": 7,
+            "LevelRewards": {
+                "1": {
+                    "Id": "level.free.1",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "2": {
+                    "Id": "level.free.2",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "3": {
+                    "Id": "level.free.3",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "4": {
+                    "Id": "level.free.4",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.405012",
+                            "PartDescId": "partdesc.feet",
+                            "GameItemId": "405012",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "special",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 100,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Boots (Punk)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "5": {
+                    "Id": "level.free.5",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "6": {
+                    "Id": "level.free.6",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "7": {
+                    "Id": "level.free.7",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400011",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1400011",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "rare",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 200,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Assassin Jacket",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "8": {
+                    "Id": "level.free.8",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "9": {
+                    "Id": "level.free.9",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "10": {
+                    "Id": "level.free.10",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "11": {
+                    "Id": "level.free.11",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "12": {
+                    "Id": "level.free.12",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "13": {
+                    "Id": "level.free.13",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.405026",
+                            "PartDescId": "partdesc.feet",
+                            "GameItemId": "405026",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "rare",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 200,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Urban Defender Boots",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "14": {
+                    "Id": "level.free.14",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "15": {
+                    "Id": "level.free.15",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "16": {
+                    "Id": "level.free.16",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "17": {
+                    "Id": "level.free.17",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.404067",
+                            "PartDescId": "partdesc.legs",
+                            "GameItemId": "404067",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Ranger Pants (Brown)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "18": {
+                    "Id": "level.free.18",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "19": {
+                    "Id": "level.free.19",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "20": {
+                    "Id": "level.free.20",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "21": {
+                    "Id": "level.free.21",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "22": {
+                    "Id": "level.free.22",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "23": {
+                    "Id": "level.free.23",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "24": {
+                    "Id": "level.free.24",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "25": {
+                    "Id": "level.free.25",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "26": {
+                    "Id": "level.free.26",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.405082",
+                            "PartDescId": "partdesc.feet",
+                            "GameItemId": "405082",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "rare",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 200,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Charming Summer Shoes",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "27": {
+                    "Id": "level.free.27",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "28": {
+                    "Id": "level.free.28",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "29": {
+                    "Id": "level.free.29",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "30": {
+                    "Id": "level.free.30",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "31": {
+                    "Id": "level.free.31",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.401058",
+                            "PartDescId": "partdesc.head",
+                            "GameItemId": "401058",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Urban Punk Cap",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "32": {
+                    "Id": "level.free.32",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "33": {
+                    "Id": "level.free.33",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "34": {
+                    "Id": "level.free.34",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "35": {
+                    "Id": "level.free.35",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "36": {
+                    "Id": "level.free.36",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "37": {
+                    "Id": "level.free.37",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "38": {
+                    "Id": "level.free.38",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "39": {
+                    "Id": "level.free.39",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "40": {
+                    "Id": "level.free.40",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "41": {
+                    "Id": "level.free.41",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400025",
+                            "PartDescId": "partdesc.mask",
+                            "GameItemId": "1400025",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Poison Mask",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "42": {
+                    "Id": "level.free.42",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "43": {
+                    "Id": "level.free.43",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.405039",
+                            "PartDescId": "partdesc.feet",
+                            "GameItemId": "405039",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "rare",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 200,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Mechanic Shoes",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "44": {
+                    "Id": "level.free.44",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "45": {
+                    "Id": "level.free.45",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "46": {
+                    "Id": "level.free.46",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "47": {
+                    "Id": "level.free.47",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "48": {
+                    "Id": "level.free.48",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "49": {
+                    "Id": "level.free.49",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "50": {
+                    "Id": "level.free.50",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "51": {
+                    "Id": "level.free.51",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "52": {
+                    "Id": "level.free.52",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "53": {
+                    "Id": "level.free.53",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.402061",
+                            "PartDescId": "partdesc.mask",
+                            "GameItemId": "402061",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Aviator Goggles",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "54": {
+                    "Id": "level.free.54",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "55": {
+                    "Id": "level.free.55",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "56": {
+                    "Id": "level.free.56",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "57": {
+                    "Id": "level.free.57",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "58": {
+                    "Id": "level.free.58",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "59": {
+                    "Id": "level.free.59",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "60": {
+                    "Id": "level.free.60",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "61": {
+                    "Id": "level.free.61",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "62": {
+                    "Id": "level.free.62",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "63": {
+                    "Id": "level.free.63",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "64": {
+                    "Id": "level.free.64",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "65": {
+                    "Id": "level.free.65",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "66": {
+                    "Id": "level.free.66",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.405090",
+                            "PartDescId": "partdesc.feet",
+                            "GameItemId": "405090",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "rare",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 200,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Aviator Combat Shoes",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "67": {
+                    "Id": "level.free.67",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "68": {
+                    "Id": "level.free.68",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "69": {
+                    "Id": "level.free.69",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "70": {
+                    "Id": "level.free.70",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "71": {
+                    "Id": "level.free.71",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "72": {
+                    "Id": "level.free.72",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "73": {
+                    "Id": "level.free.73",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "74": {
+                    "Id": "level.free.74",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "75": {
+                    "Id": "level.free.75",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "76": {
+                    "Id": "level.free.76",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "77": {
+                    "Id": "level.free.77",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "78": {
+                    "Id": "level.free.78",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "79": {
+                    "Id": "level.free.79",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "80": {
+                    "Id": "level.free.80",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "81": {
+                    "Id": "level.free.81",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "82": {
+                    "Id": "level.free.82",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "83": {
+                    "Id": "level.free.83",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.401078",
+                            "PartDescId": "partdesc.head",
+                            "GameItemId": "401078",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Aviator Trapper Hat",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "84": {
+                    "Id": "level.free.84",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "85": {
+                    "Id": "level.free.85",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "86": {
+                    "Id": "level.free.86",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "87": {
+                    "Id": "level.free.87",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "88": {
+                    "Id": "level.free.88",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "89": {
+                    "Id": "level.free.89",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "90": {
+                    "Id": "level.free.90",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "91": {
+                    "Id": "level.free.91",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "92": {
+                    "Id": "level.free.92",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "93": {
+                    "Id": "level.free.93",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "94": {
+                    "Id": "level.free.94",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "95": {
+                    "Id": "level.free.95",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "96": {
+                    "Id": "level.free.96",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "97": {
+                    "Id": "level.free.97",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "98": {
+                    "Id": "level.free.98",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "99": {
+                    "Id": "level.free.99",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.403026",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "403026",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Punk Jacket",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                },
+                "100": {
+                    "Id": "level.free.100",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": false
+                }
+            },
+            "PremiumLevelRewards": {
+                "1": {
+                    "Id": "level.premium.1",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "2": {
+                    "Id": "level.premium.2",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.4014",
+                            "PartDescId": "partdesc.machete",
+                            "GameItemId": "4014",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_Machete.Item_Weapon_Machete_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street - Machete",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "3": {
+                    "Id": "level.premium.3",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "4": {
+                    "Id": "level.premium.4",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "5": {
+                    "Id": "level.premium.5",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.4016",
+                            "PartDescId": "partdesc.m416",
+                            "GameItemId": "4016",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_HK416.Item_Weapon_HK416_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon - M416",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "6": {
+                    "Id": "level.premium.6",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "7": {
+                    "Id": "level.premium.7",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3109",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "3109",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Combat Jacket",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "8": {
+                    "Id": "level.premium.8",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "9": {
+                    "Id": "level.premium.9",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.403316",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "403316",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Aviator Jacket",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "10": {
+                    "Id": "level.premium.10",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "11": {
+                    "Id": "level.premium.11",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "12": {
+                    "Id": "level.premium.12",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.404154",
+                            "PartDescId": "partdesc.legs",
+                            "GameItemId": "404154",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Aviator Combat Pants",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "13": {
+                    "Id": "level.premium.13",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "14": {
+                    "Id": "level.premium.14",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.401025",
+                            "PartDescId": "partdesc.head",
+                            "GameItemId": "401025",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Fisherman\\'s Hat (Teal)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "15": {
+                    "Id": "level.premium.15",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 500,
+                    "Premium": true
+                },
+                "16": {
+                    "Id": "level.premium.16",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.403230",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "403230",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Dancer Vest (Red)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "17": {
+                    "Id": "level.premium.17",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "18": {
+                    "Id": "level.premium.18",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "19": {
+                    "Id": "level.premium.19",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.404035",
+                            "PartDescId": "partdesc.legs",
+                            "GameItemId": "404035",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Stockings (Black)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "20": {
+                    "Id": "level.premium.20",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "21": {
+                    "Id": "level.premium.21",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.2201901",
+                            "PartDescId": "partdesc.emote",
+                            "GameItemId": "2201901",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Dance 5",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "22": {
+                    "Id": "level.premium.22",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "23": {
+                    "Id": "level.premium.23",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.403197",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "403197",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Uniform Top (Orange & Black)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "24": {
+                    "Id": "level.premium.24",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "25": {
+                    "Id": "level.premium.25",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "26": {
+                    "Id": "level.premium.26",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.103001001",
+                            "PartDescId": "partdesc.kar98",
+                            "GameItemId": "103001001",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_Kar98k.Item_Weapon_Kar98k_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "青耀-Kar98K",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "27": {
+                    "Id": "level.premium.27",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "28": {
+                    "Id": "level.premium.28",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1405022",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1405022",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Troublemaker Set",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "29": {
+                    "Id": "level.premium.29",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "30": {
+                    "Id": "level.premium.30",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.404075",
+                            "PartDescId": "partdesc.legs",
+                            "GameItemId": "404075",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Mechanic Pants",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "31": {
+                    "Id": "level.premium.31",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "32": {
+                    "Id": "level.premium.32",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "33": {
+                    "Id": "level.premium.33",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.101002002",
+                            "PartDescId": "partdesc.m16a4",
+                            "GameItemId": "101002002",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_M16A4.Item_Weapon_M16A4_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "青耀-M16A4",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "34": {
+                    "Id": "level.premium.34",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "35": {
+                    "Id": "level.premium.35",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400134",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1400134",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Crimson Punk Suit",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "36": {
+                    "Id": "level.premium.36",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 500,
+                    "Premium": true
+                },
+                "37": {
+                    "Id": "level.premium.37",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1102004001",
+                            "PartDescId": "partdesc.tommy_gun",
+                            "GameItemId": "1102004001",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_Thompson.Item_Weapon_Thompson_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Silver Plate - Tommy Gun",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "38": {
+                    "Id": "level.premium.38",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "39": {
+                    "Id": "level.premium.39",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.404036",
+                            "PartDescId": "partdesc.legs",
+                            "GameItemId": "404036",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Stockings (White)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "40": {
+                    "Id": "level.premium.40",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.106002001",
+                            "PartDescId": "partdesc.p1911",
+                            "GameItemId": "106002001",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_M1911.Item_Weapon_M1911_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "青耀-P1911",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "41": {
+                    "Id": "level.premium.41",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "42": {
+                    "Id": "level.premium.42",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3107",
+                            "PartDescId": "partdesc.mask",
+                            "GameItemId": "3107",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Secret Gas Mask",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "43": {
+                    "Id": "level.premium.43",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "44": {
+                    "Id": "level.premium.44",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.403332",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "403332",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Battlefield Coat",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "45": {
+                    "Id": "level.premium.45",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "46": {
+                    "Id": "level.premium.46",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "47": {
+                    "Id": "level.premium.47",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.2202101",
+                            "PartDescId": "partdesc.emote",
+                            "GameItemId": "2202101",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Dance 7",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "48": {
+                    "Id": "level.premium.48",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "49": {
+                    "Id": "level.premium.49",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3111",
+                            "PartDescId": "partdesc.legs",
+                            "GameItemId": "3111",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon Combat Pants",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "50": {
+                    "Id": "level.premium.50",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "51": {
+                    "Id": "level.premium.51",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400119",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1400119",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Wanderer Outfit",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "52": {
+                    "Id": "level.premium.52",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "53": {
+                    "Id": "level.premium.53",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "54": {
+                    "Id": "level.premium.54",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.2202901",
+                            "PartDescId": "partdesc.emote",
+                            "GameItemId": "2202901",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Flip",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "55": {
+                    "Id": "level.premium.55",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "56": {
+                    "Id": "level.premium.56",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3112",
+                            "PartDescId": "partdesc.feet",
+                            "GameItemId": "3112",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Combat Shoes",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "57": {
+                    "Id": "level.premium.57",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 500,
+                    "Premium": true
+                },
+                "58": {
+                    "Id": "level.premium.58",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.402054",
+                            "PartDescId": "partdesc.mask",
+                            "GameItemId": "402054",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Gas Mask (Green)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "59": {
+                    "Id": "level.premium.59",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "60": {
+                    "Id": "level.premium.60",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "61": {
+                    "Id": "level.premium.61",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400058",
+                            "PartDescId": "partdesc.parachute",
+                            "GameItemId": "1400058",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Equip/Item_Back_B_01_StartParachutePack.Item_Back_B_01_StartParachutePack_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "special",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 100,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Parachute (M16A4 White)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "62": {
+                    "Id": "level.premium.62",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "63": {
+                    "Id": "level.premium.63",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3108",
+                            "PartDescId": "partdesc.mask",
+                            "GameItemId": "3108",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Gas Mask",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "64": {
+                    "Id": "level.premium.64",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "65": {
+                    "Id": "level.premium.65",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400251",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1400251",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Punk Sweats (Blue)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "66": {
+                    "Id": "level.premium.66",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "67": {
+                    "Id": "level.premium.67",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "68": {
+                    "Id": "level.premium.68",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1505000003",
+                            "PartDescId": "partdesc.helmetlv3",
+                            "GameItemId": "1505000003",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Equip/Item_Head_G_01_Lv3.Item_Head_G_01_Lv3_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Punk Helmet (Blue)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "69": {
+                    "Id": "level.premium.69",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "70": {
+                    "Id": "level.premium.70",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3113",
+                            "PartDescId": "partdesc.feet",
+                            "GameItemId": "3113",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon Combat Shoes",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "71": {
+                    "Id": "level.premium.71",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "72": {
+                    "Id": "level.premium.72",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400399",
+                            "PartDescId": "partdesc.mask",
+                            "GameItemId": "1400399",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Punk Mask (Blue)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "73": {
+                    "Id": "level.premium.73",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "74": {
+                    "Id": "level.premium.74",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "75": {
+                    "Id": "level.premium.75",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400255",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1400255",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Punk Set (Blue)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "76": {
+                    "Id": "level.premium.76",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "77": {
+                    "Id": "level.premium.77",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.4018",
+                            "PartDescId": "partdesc.fnfal",
+                            "GameItemId": "4018",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_FNFal.Item_Weapon_FNFal_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "SLR",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "78": {
+                    "Id": "level.premium.78",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 500,
+                    "Premium": true
+                },
+                "79": {
+                    "Id": "level.premium.79",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1405028",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1405028",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Phantom Hunter Suit",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "80": {
+                    "Id": "level.premium.80",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "81": {
+                    "Id": "level.premium.81",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400495",
+                            "PartDescId": "partdesc.mask",
+                            "GameItemId": "1400495",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Hazard Response Mask",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "82": {
+                    "Id": "level.premium.82",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1400249",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "1400249",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Punk Sweats (Purple)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "83": {
+                    "Id": "level.premium.83",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "84": {
+                    "Id": "level.premium.84",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.4019",
+                            "PartDescId": "partdesc.m24",
+                            "GameItemId": "4019",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_M24.Item_Weapon_M24_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon - M24",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "85": {
+                    "Id": "level.premium.85",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "86": {
+                    "Id": "level.premium.86",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.403315",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "403315",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Violent Violet Jacket",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "87": {
+                    "Id": "level.premium.87",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "88": {
+                    "Id": "level.premium.88",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 1000
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "89": {
+                    "Id": "level.premium.89",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.1504000004",
+                            "PartDescId": "partdesc.backpacklv3",
+                            "GameItemId": "1504000004",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Equip/Item_Back_C_01_Lv3.Item_Back_C_01_Lv3_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Punk Backpack (Blue)",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "90": {
+                    "Id": "level.premium.90",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "91": {
+                    "Id": "level.premium.91",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3508",
+                            "PartDescId": "partdesc.parachute",
+                            "GameItemId": "3508",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Equip/Item_Back_B_01_StartParachutePack.Item_Back_B_01_StartParachutePack_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Neon Mark Parachute",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "92": {
+                    "Id": "level.premium.92",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 500,
+                    "Premium": true
+                },
+                "93": {
+                    "Id": "level.premium.93",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.3110",
+                            "PartDescId": "partdesc.torso",
+                            "GameItemId": "3110",
+                            "BaseGameItemId": null,
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon Jacket",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "94": {
+                    "Id": "level.premium.94",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 300,
+                    "Premium": true
+                },
+                "95": {
+                    "Id": "level.premium.95",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 500
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "96": {
+                    "Id": "level.premium.96",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.4017",
+                            "PartDescId": "partdesc.vector",
+                            "GameItemId": "4017",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_Vector.Item_Weapon_Vector_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "elite",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 300,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon - Vector",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "97": {
+                    "Id": "level.premium.97",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "98": {
+                    "Id": "level.premium.98",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.4015",
+                            "PartDescId": "partdesc.machete",
+                            "GameItemId": "4015",
+                            "BaseGameItemId": "Blueprint'/Game/Item/Weapon/Item_Weapon_Machete.Item_Weapon_Machete_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon - Machete",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "99": {
+                    "Id": "level.premium.99",
+                    "Items": [],
+                    "InGameCurrencies": {
+                        "bp": 0,
+                        "medal.a": 1
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                },
+                "100": {
+                    "Id": "level.premium.100",
+                    "Items": [
+                        {
+                            "ItemDescId": "itemdesc.5012",
+                            "PartDescId": "partdesc.motorcycle",
+                            "GameItemId": "5012",
+                            "BaseGameItemId": "Blueprint'/Game/Vehicles/Motorcycle/Blueprint/Motorcycle.Motorcycle_C'",
+                            "BaseGameItemIcon": null,
+                            "KeyItemDescIds": [],
+                            "Quality": "epic",
+                            "CategoryType": null,
+                            "Count": 0,
+                            "SellPrice": 400,
+                            "EffectType": null,
+                            "EffectValueStr": null,
+                            "EffectValueNumber": 0,
+                            "EffectValueMultiflier": 0,
+                            "TimeLimit": "0001-01-01T00:00:00",
+                            "DescValidHours": 0,
+                            "TradeUpMaterial": false,
+                            "IsMultislot": false,
+                            "IsDefault": false,
+                            "BlockedPartDescIds": [],
+                            "EquipManagedBy": "",
+                            "Name": "Street Neon Bike",
+                            "Desc": null,
+                            "EmoteItemId": null,
+                            "VoiceCardDescId": null,
+                            "BoxPreviewItems": null
+                        }
+                    ],
+                    "InGameCurrencies": {
+                        "bp": 0
+                    },
+                    "Xp": 0,
+                    "Premium": true
+                }
+            }
+        }
+    ]
+]
